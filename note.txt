@@ -1,0 +1,4 @@
+Display inline
+Display flex; convert the blog in all form. 
+Display grid: 
+Display block 
